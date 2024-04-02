@@ -1,0 +1,10 @@
+.header-container {
+  text-align: center;
+}
+.header-text {
+  color: rgb(251 98 89);
+  border-bottom: 1px solid black;
+  margin-top: 20px;
+  display: inline-block;
+  padding-bottom: 20px;
+}

@@ -1,0 +1,7 @@
+.contact-logo {
+  font-size: 30px;
+  margin: 10px 20px;
+}
+.contact-logo :hover {
+  color: rgb(251 98 89);
+}

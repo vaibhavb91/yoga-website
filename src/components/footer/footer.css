@@ -1,0 +1,29 @@
+.footclass > li {
+  list-style: none;
+  text-decoration: none;
+}
+.hr {
+  width: 100%;
+}
+.social-link {
+  color: white;
+  font-size: 30px;
+  margin: 10px;
+}
+.footclass > li {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  text-align: center;
+}
+.list-footer > a {
+  text-decoration: none;
+  color: white;
+}
+.list-footer :hover {
+  color: rgb(251 98 89);
+  cursor: pointer;
+}
+.social-link :hover {
+  color: rgb(251 98 89);
+}

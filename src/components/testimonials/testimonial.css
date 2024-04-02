@@ -1,0 +1,8 @@
+.testimonial-image {
+  height: 50px;
+  width: auto;
+}
+.img-container {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,10 @@
+.imgContainer {
+  overflow: hidden;
+}
+.program-images {
+  transition: transform 0.3s ease;
+}
+
+.program-images:hover {
+  transform: scale(1.1);
+}
